@@ -10,7 +10,7 @@ This SQL project explores a dataset containing information about famous painting
 - Which paintings are undervalued or overpriced?
 - What are the most popular styles and canvas sizes?
 - Which museums are open every day or for the longest hours?
-- Who are the most globally recognized artists?
+- Who are the most globally recognised artists?
 
 _See `sql_queries/` for full list._
 
@@ -26,7 +26,7 @@ _See `sql_queries/` for full list._
 ##  Project Structure
 
 data/               # Raw and cleaned data files
-sql_queries/        # Categorized SQL scripts
+sql_queries/        # Categorised SQL scripts
 scripts/            # Python loader script
 reports/            # Summary and markdown reports
 visuals/            # Thumbnail and optional charts
