@@ -12,8 +12,6 @@ This SQL project explores a dataset containing information about famous painting
 - Which museums are open every day or for the longest hours?
 - Who are the most globally recognised artists?
 
-_See `sql_queries/` for full list._
-
 ---
 
 ##  Tools & Technologies
