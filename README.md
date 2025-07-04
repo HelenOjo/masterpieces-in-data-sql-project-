@@ -1,3 +1,5 @@
+"C:\Users\Helen Ojo\Downloads\205b785570a999065584d780bbe5c60a.png"
+
 # Masterpieces in Data: SQL Insights from Famous Paintings & Museums
 
 ##  Project Overview
