@@ -51,24 +51,29 @@ This SQL project explores a dataset containing information about famous painting
 
 Paintings not displayed in any museum are **10,223**
 
+
 <img width="413" alt="image" src="https://github.com/user-attachments/assets/7c7bdf6a-a1fd-4802-a054-d3259cef3a40" />
 
 3 Least Popular Canvas Sizes are **11**
+
 
 ## B. Pricing Insights
 <img width="308" alt="image" src="https://github.com/user-attachments/assets/154e4fc3-190e-4790-864a-4f2f7b280412" />
 
 Most expensive canvas size: **48" x 96" (122 cm x 244 cm)** with sale price **1,115**
 
+
 ## C. Data Quality Checks
 <img width="536" alt="image" src="https://github.com/user-attachments/assets/fae7c0a0-9ee7-492a-abb2-98fd58144572" />
 
 Duplicates removed from `work`, `product_size`, `subject`, `image_link`
 
+
 ## D. Museum Operations
 <img width="744" alt="image" src="https://github.com/user-attachments/assets/2cdba404-87ce-4309-8dd9-1e73fdcff564" />
 
 The longest daily opening Museum is **Musée du Louvre** on **Friday** for 12 hours 45 minutes
+
 
 ## E. Artist & Museum Popularity
 <img width="701" alt="image" src="https://github.com/user-attachments/assets/351674db-1281-4cea-970a-eac3a5a61f7c" />
@@ -76,6 +81,7 @@ The longest daily opening Museum is **Musée du Louvre** on **Friday** for 12 ho
 Top 5 Museums by Number of Paintings:
 
 **The Metropolitan Museum of Art** – 939, **Rijksmuseum** – 452, **National Gallery** – 423, **National Gallery of Art** – 375, **The Barnes Foundation** – 350
+
 
 ## F. Painting Subjects & Styles
 <img width="531" alt="image" src="https://github.com/user-attachments/assets/c012e610-3a1c-49d0-b529-aede8827ec87" />
