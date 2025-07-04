@@ -11,12 +11,19 @@ This SQL project explores a dataset containing information about famous painting
 - Which museums are open every day or for the longest hours?
 - Who are the most globally recognised artists?
 
----
-
 ##  Tools & Technologies
 - **SQL**: Joins, CTEs, Window Functions, Aggregations
 - **Python**: Used for data loading via `pandas` and `SQLAlchemy`
 - **Database**: PostgreSQL
+
+##  Project Structure
+
+data/               # Raw and cleaned data files
+sql_queries/        # Categorised SQL scripts
+scripts/            # Python loader script
+reports/            # Summary and reports
+visuals/            # charts
+README.md           # here!
 
 ---
 
