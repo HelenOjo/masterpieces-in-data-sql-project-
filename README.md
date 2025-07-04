@@ -1,6 +1,9 @@
 
 # Masterpieces in Data: SQL Insights from Famous Paintings & Museums
 
+![masterpieces-in-data-project](./Painting_Image.png)
+
+
 ##  Project Overview
 This SQL project explores a dataset containing information about famous paintings, museums, artists, canvas sizes, and more. Using complex SQL queries, I uncovered insights related to museum operations, pricing strategies, artist popularity, and geographical trends.
 
