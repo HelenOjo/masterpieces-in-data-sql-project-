@@ -11,6 +11,13 @@ This SQL project explores a dataset containing information about famous painting
 - Which museums are open every day or for the longest hours?
 - Who are the most globally recognised artists?
 
+## Key Outcomes
+- Revealed undervalued paintings to support pricing reevaluation
+- Identified underutilised museums for potential exhibit placement
+- Cleaned and validated key data tables for reliable reporting
+- Ranked top artists and museums for promotional or strategic focus
+- Delivered geographic insights on museum and artwork distribution
+  
 ##  Tools & Technologies
 - **SQL**: Joins, CTEs, Window Functions, Aggregations
 - **Python**: Used for data loading via `pandas` and `SQLAlchemy`
@@ -21,15 +28,6 @@ This SQL project explores a dataset containing information about famous painting
 data/               # Raw and cleaned data files
 sql_queries/        # Categorised SQL scripts
 scripts/            # Python loader script
-reports/            # Summary and reports
+Reports/            # Summary and reports
 visuals/            # charts
 README.md           # here!
-
-##  Project Structure
-
-data/               # Raw and cleaned data files
-sql_queries/        # Categorised SQL scripts
-scripts/            # Python loader script
-reports/            # Summary and markdown reports
-visuals/            # Thumbnail and optional charts
-README.md           # You are here!
