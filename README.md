@@ -25,8 +25,6 @@ reports/            # Summary and reports
 visuals/            # charts
 README.md           # here!
 
----
-
 ##  Project Structure
 
 data/               # Raw and cleaned data files
