@@ -1,7 +1,7 @@
 
 # Masterpieces in Data: SQL Insights from Famous Paintings & Museums
 
-![masterpieces-in-data-sql-roject-](./Painting_Image.png)
+![masterpieces-in-data-sql-project-](/repository/assets/Painting_Image.png?raw=true "masterpieces-in-data-sql-project-")
 
 
 ##  Project Overview
